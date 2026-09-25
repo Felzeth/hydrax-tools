@@ -9,3 +9,5 @@ This repo is made to help with everything you need "I guess". If you want more t
 Most of this tools are made by [Me](https://github.com/felzeth) & [My Team](https://haru.team/members)
 
 If the tools are from any individual. I will leave a credits in the README.md files.
+
+And please. Give me and my team some credits.
