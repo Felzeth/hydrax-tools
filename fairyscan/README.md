@@ -2,7 +2,7 @@
 
 # What is it?
 
-Fairyscan is a high-performance concurrent mass-scraper built to extract direct streaming links from [Fairyanime.net](https://fairyanime.net)[cite: 3].
+Fairyscan is a high-performance concurrent mass-scraper built to extract direct streaming links from [Fairyanime.net](https://fairyanime.net) ![web ico](https://fairyanime.net/favicon.ico).
 
 # Key Features
 
