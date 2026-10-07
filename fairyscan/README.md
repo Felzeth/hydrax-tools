@@ -17,7 +17,7 @@ Fairyscan is a high-performance concurrent mass-scraper built to extract direct 
 # Why fairyanime?
 
 Fairyanime hosts an extensive anime catalog utilizing specialized media players. Fairyscan is tailored specifically to harvest these Thai sub and dub streaming sources[: 3].
-Especially from the one from hydrax. aka, abyss
+Especially the one from hydrax. aka, abyss
 
 ## Known issue
 
