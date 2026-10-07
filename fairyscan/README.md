@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://i.8upload.com/image/13378d302634f790/favicon-5.png" alt="Fairyscan Logo" width="128" height="128">
+</p>
+
 # Fairyscan
 
 # What is it?
 
-Fairyscan is a high-performance concurrent mass-scraper built to extract direct streaming links from [Fairyanime.net](https://fairyanime.net) ![web ico](https://fairyanime.net/favicon.ico).
+Fairyscan is a high-performance concurrent mass-scraper built to extract direct streaming links from [Fairyanime.net](https://fairyanime.net).
 
 # Key Features
 
